@@ -1,15 +1,15 @@
 ---
 import BaseLayout from '../layouts/BaseLayout.astro';
 
-const title = 'My Astro Blog';
-const description = 'The perfect starter for your perfect blog.';
+const title = 'Oh Serena';
+const description = 'Criamos conteúdo, experiências e ferramentas para ajudar você a reconectar com o que importa — sua mente, seu corpo e seu tempo.';
 const permalink = Astro.site.href;
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink}>
   <div class="home-container">
     <div class="home-copy">
-      <h1>Um espaço de calma no mundo hiperconectado</h1>
+      <h1>Respiro no mundo hiperconectado</h1>
       <p>Criamos conteúdo, experiências e ferramentas para ajudar você a reconectar com o que importa — sua mente, seu corpo e seu tempo. Menos ruído. Mais presença.</p>
     </div>
 
@@ -18,11 +18,6 @@ const permalink = Astro.site.href;
         <source srcset="/assets/home-illustration.webp" media="(min-width: 600px)">
         <img class="hero-image" alt="Illustration of person reading a book" src="/assets/home-illustration-small.webp" width="550" height="466">
       </picture>
-      <p class="caption">
-        Illustration by
-        <a href="https://icons8.com/illustrations/author/5c07e68d82bcbc0092519bb6" target="_blank" rel="noopener">Icons 8</a>
-        from
-        <a href="https://icons8.com/illustrations" target="_blank" rel="noopener">Ouch!</a>
       </p>
     </div>
   </div>
