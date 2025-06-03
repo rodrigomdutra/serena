@@ -7,9 +7,7 @@ const description = 'Latest articles.';
 const permalink = `${Astro.site.href}blog`;
 
 let allPosts = await getCollection('posts')
-allPosts = allPosts
-.filter(post => !post.data.archived) // 👈 Aqui você exclui os arquivados
-.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
+allPosts = allPosts.sort((a, b) => new Date(b.data.publishDate).valueOf() - new Date(a.data.publishDate).valueOf());
 ---
 
 <BaseLayout title={title} description={description} permalink={permalink} current="blog">
