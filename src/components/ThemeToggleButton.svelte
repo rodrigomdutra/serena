@@ -5,8 +5,8 @@
 
   if (typeof localStorage !== 'undefined' && localStorage.getItem('theme')) {
     theme = localStorage.getItem('theme');
-  } else if (typeof window !== 'undefined' && window.matchMedia('(prefers-color-scheme: dark)').matches) {
-    theme = 'dark';
+  } else if (typeof window !== 'undefined' && window.matchMedia('(prefers-color-scheme: light)').matches) {
+    theme = 'light';
   }
 
   function handleChange(event) {
