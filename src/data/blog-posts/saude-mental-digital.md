@@ -49,9 +49,6 @@ description: Descubra como a saúde mental digital é impactada pelo uso da tecn
   <footer>
     <h3>Links úteis</h3>
     <ul>
-      <li><a href="#">Como Praticar o Detox Digital</a></li>
-      <li><a href="#">Dicas para Reduzir o Estresse no Ambiente Digital</a></li>
-      <li><a href="#">Importância das Conexões Humanas na Era Digital</a></li>
       <li><a href="https://www.who.int/mental_health/pt/" target="_blank">Organização Mundial da Saúde – Saúde Mental</a></li>
       <li><a href="https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental" target="_blank">Ministério da Saúde – Saúde Mental</a></li>
       <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7364393/" target="_blank">Pesquisa sobre Redes Sociais e Saúde Mental</a></li>
