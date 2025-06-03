@@ -1,0 +1,36 @@
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    const logo = document.getElementById('logo-theme');
+
+    function getCurrentTheme() {
+      const storedTheme = localStorage.getItem('theme');
+      if (storedTheme) return storedTheme;
+
+      return window.matchMedia('(prefers-color-scheme: dark)').matches ? 'dark' : 'light';
+    }
+
+    function setLogo(theme) {
+      const img = logo as HTMLImageElement; // 👈 cast explícito aqui
+      if (!img) return;
+
+      img.src = theme === 'dark'
+        ? '/assets/logo-darkmode.webp'
+        : '/assets/logo.webp';
+    }
+
+    const currentTheme = getCurrentTheme();
+    setLogo(currentTheme);
+
+    // Detecta mudança de tema no sistema
+    window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', (e) => {
+      setLogo(e.matches ? 'dark' : 'light');
+    });
+
+    // Detecta mudança via localStorage
+    window.addEventListener('storage', (e) => {
+      if (e.key === 'theme') {
+        setLogo(e.newValue);
+      }
+    });
+  });
+</script>
