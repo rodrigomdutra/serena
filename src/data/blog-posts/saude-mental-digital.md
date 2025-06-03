@@ -1,7 +1,7 @@
 ---
 title: Saúde Mental Digital - Como a Tecnologia Afeta Nosso Bem-Estar Emocional
 slug: saude-mental-digital
-publishDate: 3 Jun 2025
+publishDate: 2 Jun 2025
 description: Descubra como a saúde mental digital é impactada pelo uso da tecnologia e aprenda estratégias para promover o bem-estar emocional no mundo conectado.
 ---
 
@@ -11,8 +11,16 @@ description: Descubra como a saúde mental digital é impactada pelo uso da tecn
     <h1>Saúde Mental Digital: Como a Tecnologia Afeta Nosso Bem-Estar Emocional</h1>
   </header>
 
+## <a name="top"></a> Table of Contents
+
+- [O Que é Saúde Mental Digital?](#Headings)
+- [Redes Sociais e Saúde Mental: Uma Relação Complexa](#Headings)
+- [Tecnologia e Ansiedade: O Papel dos Smartphones](#Headings)
+- [Estratégias para Promover o Bem-Estar Digital](#Headings)
+- [Conclusão](#Headings)
+
+---
   <section>
-    <h2>Introdução</h2>
     <p>No mundo atual, onde a tecnologia está presente em quase todos os aspectos da vida, a <strong>saúde mental digital</strong> tornou-se uma preocupação crescente. O uso constante de dispositivos digitais e redes sociais pode influenciar significativamente nosso bem-estar emocional. Este artigo explora como a tecnologia afeta nossa saúde mental e oferece estratégias para manter o equilíbrio no ambiente digital.</p>
   </section>
 
