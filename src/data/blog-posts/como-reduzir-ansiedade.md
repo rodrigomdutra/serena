@@ -7,7 +7,6 @@ description: Descubra 5 estratégias naturais para reduzir ansiedade de forma ef
 
 ![Illustration of woman using a computer receiving likes](/assets/blog/casual-life-3d-likes.webp)
 
-This page is an adapted version of [markdown-test-page](https://github.com/fullpipe/markdown-test-page). It should give you an idea of how different elements are styled on this template.
 <body>
   <h2><a name="top"></a>Table of Contents</h2>
   <ul>
@@ -19,9 +18,6 @@ This page is an adapted version of [markdown-test-page](https://github.com/fullp
     <li><a href="#conclusao">Conclusão</a></li>
   </ul>
   <hr>
-
-  <h1>Como Reduzir Ansiedade: 5 Estratégias Naturais e Eficazes</h1>
-
   <p>A ansiedade é uma resposta natural do corpo ao estresse, mas quando se torna constante, pode impactar negativamente a qualidade de vida. Felizmente, existem métodos naturais e eficazes para <strong>reduzir ansiedade</strong> sem a necessidade de medicação. Neste artigo, exploraremos cinco estratégias comprovadas que podem ajudar a controlar os sintomas de ansiedade e promover o bem-estar geral.</p>
 
   <h2><a name="entendendo"></a>Entendendo a Ansiedade</h2>

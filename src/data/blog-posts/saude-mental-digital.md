@@ -7,40 +7,38 @@ description: Descubra como a saúde mental digital é impactada pelo uso da tecn
 
 ![Illustration of woman using a meditation app](/assets/blog/casual-life-3d-meditation-crystal.webp)
 
- <header>
-    <h1>Saúde Mental Digital: Como a Tecnologia Afeta Nosso Bem-Estar Emocional</h1>
-  </header>
+  <h2><a name="top"></a>Table of Contents</h2>
+  <ul>
+    <li><a href="#saude-mental-digital">O Que é Saúde Mental Digital?</a></li>
+    <li><a href="#redes-sociais">Redes Sociais e Saúde Mental: Uma Relação Complexa</a></li>
+    <li><a href="#smartphones">Tecnologia e Ansiedade: O Papel dos Smartphones</a></li>
+    <li><a href="#estrategias">Estratégias para Promover o Bem-Estar Digital</a></li>
+    <li><a href="#conclusao">Conclusão</a></li>
+  </ul>
 
-## <a name="top"></a> Table of Contents
+  <hr>
 
-- [O Que é Saúde Mental Digital?](#Headings)
-- [Redes Sociais e Saúde Mental: Uma Relação Complexa](#Headings)
-- [Tecnologia e Ansiedade: O Papel dos Smartphones](#Headings)
-- [Estratégias para Promover o Bem-Estar Digital](#Headings)
-- [Conclusão](#Headings)
-
----
   <section>
     <p>No mundo atual, onde a tecnologia está presente em quase todos os aspectos da vida, a <strong>saúde mental digital</strong> tornou-se uma preocupação crescente. O uso constante de dispositivos digitais e redes sociais pode influenciar significativamente nosso bem-estar emocional. Este artigo explora como a tecnologia afeta nossa saúde mental e oferece estratégias para manter o equilíbrio no ambiente digital.</p>
   </section>
 
   <section>
-    <h2>O Que é Saúde Mental Digital?</h2>
+    <h2><a name="saude-mental-digital"></a>O Que é Saúde Mental Digital?</h2>
     <p>A saúde mental digital refere-se ao impacto do uso de tecnologias digitais, como smartphones e redes sociais, no bem-estar psicológico dos indivíduos. Enquanto a tecnologia oferece benefícios, como conexão e acesso à informação, seu uso excessivo pode levar a problemas como ansiedade, depressão e isolamento social. Compreender esse conceito é essencial para navegar de forma saudável no mundo digital.</p>
   </section>
 
   <section>
-    <h2>Redes Sociais e Saúde Mental: Uma Relação Complexa</h2>
+    <h2><a name="redes-sociais"></a>Redes Sociais e Saúde Mental: Uma Relação Complexa</h2>
     <p>Estudos indicam que o uso intenso de redes sociais está associado a sentimentos de inadequação e baixa autoestima. Por exemplo, uma pesquisa publicada na <em>Frontiers in Psychology</em> revelou que usuários que passam mais de 3 horas por dia em redes sociais têm maior propensão a desenvolver sintomas depressivos. Além disso, a exposição constante a conteúdos idealizados pode distorcer a percepção da realidade, afetando negativamente a saúde mental.</p>
   </section>
 
   <section>
-    <h2>Tecnologia e Ansiedade: O Papel dos Smartphones</h2>
+    <h2><a name="smartphones"></a>Tecnologia e Ansiedade: O Papel dos Smartphones</h2>
     <p>O uso contínuo de smartphones pode contribuir para o aumento da ansiedade. A necessidade constante de verificar notificações e a pressão para estar sempre disponível criam um estado de alerta permanente. Estudos mostram que indivíduos que utilizam smartphones por mais de 5 horas diárias apresentam níveis mais altos de estresse e dificuldade de concentração. Reconhecer esses padrões é o primeiro passo para adotar hábitos digitais mais saudáveis.</p>
   </section>
 
   <section>
-    <h2>Estratégias para Promover o Bem-Estar Digital</h2>
+    <h2><a name="estrategias"></a>Estratégias para Promover o Bem-Estar Digital</h2>
     <ul>
       <li><strong>Estabeleça limites de tempo</strong>: Utilize aplicativos que monitoram e limitam o tempo de uso de dispositivos.</li>
       <li><strong>Pratique o detox digital</strong>: Reserve períodos sem tecnologia para atividades offline.</li>
@@ -50,8 +48,9 @@ description: Descubra como a saúde mental digital é impactada pelo uso da tecn
   </section>
 
   <section>
-    <h2>Conclusão</h2>
+    <h2><a name="conclusao"></a>Conclusão</h2>
     <p>A saúde mental digital é um aspecto crucial no contexto tecnológico atual. Embora a tecnologia traga inúmeros benefícios, é fundamental usá-la de forma consciente para preservar nosso bem-estar emocional. Adotar práticas saudáveis no uso de dispositivos e redes sociais pode fazer uma diferença significativa na qualidade de vida. Se você sente que a tecnologia está afetando sua saúde mental, considere buscar orientação profissional.</p>
+    <p><a href="#top">[[Top]]</a></p>
   </section>
 
   <footer>
@@ -61,3 +60,6 @@ description: Descubra como a saúde mental digital é impactada pelo uso da tecn
       <li><a href="https://www.gov.br/saude/pt-br/assuntos/saude-de-a-a-z/s/saude-mental" target="_blank">Ministério da Saúde – Saúde Mental</a></li>
       <li><a href="https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7364393/" target="_blank">Pesquisa sobre Redes Sociais e Saúde Mental</a></li>
     </ul>
+  </footer>
+
+</body>
